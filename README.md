@@ -10,7 +10,7 @@ the Zustand persist middleware.
 ## Software I Used:
 * React
 * TailwindCSS
-* Zustang
+* Zustand
 ---
 
 
